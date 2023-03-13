@@ -1,0 +1,227 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .title {
+    text-align: center;
+  }
+  
+  /* Style for the navigation bar */
+  nav ul {
+    list-style-type: disc;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    display: flex; /* make the ul a flex container */
+    justify-content: center; /* horizontally center the list items */
+  }
+  nav ul li::marker {
+    color: rgba(255, 255, 255, 0.573);
+}
+  
+  nav li {
+    position: relative; /* add position:relative to the list items */
+    float: none; /* remove the float */
+    margin: 0 10px; /* add some margin between the list items */
+  }
+  
+  nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: all 0.3s ease; /* add transition for smooth hover effect */
+  }
+  
+  nav li a:hover {
+    background-color: #111;
+    transform: scale(1.3); /* add a slight zoom effect on hover */
+  }
+  
+  /* dropdown styles */
+  nav li .dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1;
+    min-width: 160px;
+    background-color: f9f9f9;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  }
+  
+  nav li:hover .dropdown {
+    display: block; /* show the dropdown on hover */
+  }
+  
+  nav li .dropdown a {
+    display: block;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+  }
+  
+  nav li .dropdown a:hover {
+    background-color: #f1f1f1;
+  }
+  
+  /* position the dropdown arrow */
+  nav li .dropdown:before {
+    content: "";
+    position: absolute;
+    top: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-width: 10px;
+    border-style: solid;
+    border-color: transparent transparent #f9f9f9 transparent;
+  }
+  
+  /* add a class to the "By Styles" list item to show a different arrow */
+  nav li:nth-child(3) .dropdown:before {
+    border-color: transparent transparent #f9f9f9 transparent;
+  }
+  
+  /* add a class to the "By Brand" list item to show a different arrow */
+  nav li:nth-child(4) .dropdown:before {
+    border-color: transparent transparent #f9f9f9 transparent;
+  }
+  
+  .image-wrapper {
+    display: row;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 550px;
+  }
+  
+  .main-image {
+    width: 600px;
+    height: 400px;
+    object-fit: cover;
+  }
+  
+  .title {
+    /*background-color: black;*/
+    color: white;
+    padding: 10px ;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #111;
+  }
+  
+  .about-us-container {
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  .about-us-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  .member-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .member {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .member img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+  }
+  
+  .member-name {
+    font-size: 24px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  
+  .member-major {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-gap: 20px;
+    padding: 20px;
+    margin: 50px auto;
+    max-width: 1000px;
+  }
+  
+  .grid-item:hover {
+    transform: scale(1.1);
+  }
+
+
+  .grid-item {
+    background-color: #fffffff3;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.21);
+    border-radius: 5px;
+    transition: transform 0.2s ease-in-out;
+  }
+
+  .grid-item img {
+    max-width: 100%;
+    max-height: 200px;
+    object-fit: contain;
+  }
+
+  .grid-item p {
+    font-size: 16px;
+    margin-top: 10px;
+    color: #555555;
+  }
+
+  .grid-item button {
+    background-color: #4CAF50;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  .grid-item button:hover {
+    background-color: #8e3e3eba;
+  }
+
+  .gif-container {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    cursor: pointer;
+    transition: background-image 0.3s ease;
+  }

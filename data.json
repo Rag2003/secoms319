@@ -1,0 +1,458 @@
+{
+  "products_0": [
+    {
+      "name": "Louis Vuitton",
+      "description": "Alma BB",
+      "price": "2,370.00",
+      "image": "myotherimages/ez.jpg"
+    }
+  ],
+  "products_1": [
+    {
+      "name": "Gucci",
+      "description": "Gucci Deco mini shoulder bag",
+      "price": "3,290.00",
+      "image": "myotherimages/Light.jpg"
+    }
+  ],
+  "products_2": [
+    {
+      "name": "Prada",
+      "description": "Medium antique nappa leather top handle bag",
+      "price": "4,500.00",
+      "image": "myotherimages/prada.jpg"
+    }
+  ],
+  "products_3": [
+    {
+      "name": "Chanel Evening Bag",
+      "description": "Imitation Pearls & Gold-Tone Metal White & Black",
+      "price": "4,100.00",
+      "image": "myotherimages/chnel.jpg"
+    }
+  ],
+  "products_4": [
+    {
+      "name": "Gucci",
+      "description": "Gucci Diana large tote",
+      "price": "6,700.00",
+      "image": "myotherimages/bystyle/totes/gucci.jpg"
+    }
+  ],
+  "products_5": [
+    {
+      "name": "Prada",
+      "description": "Prada Double Saffiano leather",
+      "price": "4,100.00",
+      "image": "myotherimages/bystyle/totes/prada.jpg"
+    }
+  ],
+  "products_6": [
+    {
+      "name": "Louis Vuitton",
+      "description": "OnTheGo MM",
+      "price": "3,100.00",
+      "image": "myotherimages/bystyle/totes/lv.jpg"
+    }
+  ],
+  "products_7": [
+    {
+      "name": "DOLCE & GABBANA",
+      "description": "Medium Fefè shopper",
+      "price": "1,595.00",
+      "image": "myotherimages/bystyle/totes/dgabbana.jpg"
+    }
+  ],
+  "products_8": [
+    {
+      "name": "Gucci",
+      "description": "Ophidia GG small handbag",
+      "price": "1,790.00",
+      "image": "myotherimages/bystyle/shoulderbags/gucci.jpg"
+    }
+  ],
+  "products_9": [
+    {
+      "name": "Prada",
+      "description": "Nappa antique leather multi-pocket shoulder bag",
+      "price": "4,200.00",
+      "image": "myotherimages/bystyle/shoulderbags/prada.jpg"
+    }
+  ],
+  "products_10": [
+    {
+      "name": "Balenciaga",
+      "description": "WOMEN'S LE CAGOLE XS SHOULDER BA",
+      "price": "3,350.00",
+      "image": "myotherimages/bystyle/shoulderbags/balenciaga.jpg"
+    }
+  ],
+  "products_11": [
+    {
+      "name": "DOLCE & GABBANA",
+      "description": "KIM DOLCE&GABBANA Medium Sicily bag",
+      "price": "2,295.00",
+      "image": "myotherimages/bystyle/shoulderbags/dolceqndgq.jpg"
+    }
+  ],
+  "products_12": [
+    {
+      "name": "bag 13",
+      "description": "This is the description of product 13.",
+      "price": 10.99,
+      "image": "myotherimages/bystyle/tophndle/balenciaha.jpg"
+    }
+  ],
+  "products_13": [
+    {
+      "name": "bag 14",
+      "description": "This is the description of product 14.",
+      "price": 10.99,
+      "image": "myotherimages/bystyle/tophndle/amcqueen.jpg"
+    }
+  ],
+  "products_14": [
+    {
+      "name": "bag 15",
+      "description": "This is the description of product 15.",
+      "price": 10.99,
+      "image": "myotherimages/bystyle/tophndle/prada.jpg"
+    }
+  ],
+  "products_15": [
+    {
+      "name": "bag 16",
+      "description": "This is the description of product 16.",
+      "price": 10.99,
+      "image": "myotherimages/bystyle/tophndle/chanel.jpg"
+    }
+  ],
+  "products_16": [
+    {
+      "name": "bag 17",
+      "description": "This is the description of product 17.",
+      "price": 10.99,
+      "image": "myotherimages/bystyle/minibags/amcqueen.jpg"
+    }
+  ],
+  "products_17": [
+    {
+      "name": "bag 18",
+      "description": "This is the description of product 18.",
+      "price": 10.99,
+      "image": "myotherimages/bystyle/minibags/chanel.jpg"
+    }
+  ],
+  "products_18": [
+    {
+      "name": "bag 19",
+      "description": "This is the description of product 19.",
+      "price": 10.99,
+      "image": "myotherimages/bystyle/minibags/gucci.jpg"
+    }
+  ],
+  "products_19": [
+    {
+      "name": "bag 20",
+      "description": "This is the description of product 20.",
+      "price": 10.99,
+      "image": "myotherimages/bystyle/minibags/dgabbana.jpg"
+    }
+  ],
+  "products_20": [
+    {
+      "name": "bag 21",
+      "description": "This is the description of product 21.",
+      "price": 10.99,
+      "image": "myotherimages/bystyle/hobobags/amcqueen.jpg"
+    }
+  ],
+  "products_21": [
+    {
+      "name": "bag 22",
+      "description": "This is the description of product 22.",
+      "price": 10.99,
+      "image": "myotherimages/bystyle/hobobags/chanel.jpg"
+    }
+  ],
+  "products_22": [
+    {
+      "name": "bag 23",
+      "description": "This is the description of product 23.",
+      "price": 10.99,
+      "image": "myotherimages/bystyle/hobobags/lv.jpg"
+    }
+  ],
+  "products_23": [
+    {
+      "name": "bag 24",
+      "description": "This is the description of product 24.",
+      "price": 10.99,
+      "image": "myotherimages/bystyle/hobobags/prada.crop.jpg"
+    }
+  ],
+  "products_24": [
+    {
+      "name": "Gucci",
+      "description": "Gucci Horsebit 1955 mini bag",
+      "price": "3,250.00",
+      "image": "myotherimages/bybrand/gucci/gucci1.jpg"
+    }
+  ],
+  "products_25": [
+    {
+      "name": "Gucci",
+      "description": "GG matelassé mini top handle bag",
+      "price": "3,300.00",
+      "image": "myotherimages/bybrand/gucci/gucci2.jpg"
+    }
+  ],
+  "products_26": [
+    {
+      "name": "Gucci",
+      "description": "Aphrodite medium shoulder bag",
+      "price": "2,100.00",
+      "image": "myotherimages/bybrand/gucci/gucci3.jpg"
+    }
+  ],
+  "products_27": [
+    {
+      "name": "Gucci",
+      "description": "GG Marmont large tote",
+      "price": "4,980.00",
+      "image": "myotherimages/bybrand/gucci/gucci4.jpg"
+    }
+  ],
+  "products_28": [
+    {
+      "name": "Louis Vuitton",
+      "description": "Rose Des Vents Mini",
+      "price": "8,650.00",
+      "image": "myotherimages/bybrand/louisvuitton/lv1.jpg"
+    }
+  ],
+  "products_29": [
+    {
+      "name": "Louis Vuitton",
+      "description": "Capucines Mini",
+      "price": "27,800.00",
+      "image": "myotherimages/bybrand/louisvuitton/lv2.jpg"
+    }
+  ],
+  "products_30": [
+    {
+      "name": "Louis Vuitton",
+      "description": "Onthego MM",
+      "price": "3,400.00",
+      "image": "myotherimages/bybrand/louisvuitton/lv3.jpg"
+    }
+  ],
+  "products_31": [
+    {
+      "name": "Louis Vuitton",
+      "description": "Capucines MM",
+      "price": "7,700.00",
+      "image": "myotherimages/bybrand/louisvuitton/lv4.jpg"
+    }
+  ],
+  "products_32": [
+    {
+      "name": "CHANEL 22 MINI HANDBAG",
+      "description": "Shiny Calfskin & Gold-Tone Metal",
+      "price": "1,190.00",
+      "image": "myotherimages/bybrand/chanel/chanel1.jpg"
+    }
+  ],
+  "products_33": [
+    {
+      "name": "Chanel",
+      "description": "Raffia Effect Braided Tweed & Gold-Tone Metal",
+      "price": "3,199.00",
+      "image": "myotherimages/bybrand/chanel/chanel2.jpg"
+    }
+  ],
+  "products_34": [
+    {
+      "name": "Chanel",
+      "description": "Chanel White Tweed Rectangular Flap Mini",
+      "price": "5,500.00",
+      "image": "myotherimages/bybrand/chanel/chanel3.jpg"
+    }
+  ],
+  "products_35": [
+    {
+      "name": "Chanel",
+      "description": "Shaded Sequins & Gold-Tone Metal",
+      "price": "6,950.00",
+      "image": "myotherimages/bybrand/chanel/chanel4.jpg"
+    }
+  ],
+  "products_36": [
+    {
+      "name": "Prada",
+      "description": "Medium Prada Galleria ombré Saffiano leather bag",
+      "price": "4,130.00",
+      "image": "myotherimages/bybrand/prada/prada1.crop.jpg"
+    }
+  ],
+  "products_37": [
+    {
+      "name": "Prada",
+      "description": "Padded nappa-leather Prada Re-Edition 2005 shoulder bag",
+      "price": "2,250.00",
+      "image": "myotherimages/bybrand/prada/prada2.jpg"
+    }
+  ],
+  "products_38": [
+    {
+      "name": "Prada",
+      "description": "Nappa antique leather multi-pocket shoulder bag",
+      "price": "3,500.00",
+      "image": "myotherimages/bybrand/prada/prada3.jpg"
+    }
+  ],
+  "products_39": [
+    {
+      "name": "Prada",
+      "description": "Prada Re-Edition 2005 satin bag with crystals",
+      "price": "6,250.00",
+      "image": "myotherimages/bybrand/prada/prada4.jpg"
+    }
+  ],
+  "products_40": [
+    {
+      "name": "bag 41",
+      "description": "This is the description of product 41.",
+      "price": 10.99,
+      "image": "myotherimages/bybrand/balenciaga/b1.jpg"
+    }
+  ],
+  "products_41": [
+    {
+      "name": "bag 42",
+      "description": "This is the description of product 42.",
+      "price": 10.99,
+      "image": "myotherimages/bybrand/balenciaga/b2.jpg"
+    }
+  ],
+  "products_42": [
+    {
+      "name": "bag 43",
+      "description": "This is the description of product 43.",
+      "price": 10.99,
+      "image": "myotherimages/bybrand/balenciaga/b3.jpg"
+    }
+  ],
+  "products_43": [
+    {
+      "name": "bag 44",
+      "description": "This is the description of product 44.",
+      "price": 10.99,
+      "image": "myotherimages/bybrand/balenciaga/b4.jpg"
+    }
+  ],
+  "products_44": [
+    {
+      "name": "bag 45",
+      "description": "This is the description of product 45.",
+      "price": 10.99,
+      "image": "myotherimages/bybrand/amcqueen/amc1.jpg"
+    }
+  ],
+  "products_45": [
+    {
+      "name": "bag 46",
+      "description": "This is the description of product 46.",
+      "price": 10.99,
+      "image": "myotherimages/bybrand/amcqueen/amc2.jpg"
+    }
+  ],
+  "products_46": [
+    {
+      "name": "bag 47",
+      "description": "This is the description of product 47.",
+      "price": 10.99,
+      "image": "myotherimages/bybrand/amcqueen/amc3.jpg"
+    }
+  ],
+  "products_47": [
+    {
+      "name": "bag 48",
+      "description": "This is the description of product 48.",
+      "price": 10.99,
+      "image": "myotherimages/bybrand/amcqueen/amc4.jpg"
+    }
+  ],
+  "products_48": [
+    {
+      "name": "bag 49",
+      "description": "This is the description of product 49.",
+      "price": 10.99,
+      "image": "myotherimages/bybrand/dgabbana/db1.jpg"
+    }
+  ],
+  "products_49": [
+    {
+      "name": "bag 50",
+      "description": "This is the description of product 50.",
+      "price": 10.99,
+      "image": "myotherimages/bybrand/dgabbana/db2.webp"
+    }
+  ],
+  "products_50": [
+    {
+      "name": "bag 51",
+      "description": "This is the description of product 51.",
+      "price": 10.99,
+      "image": "myotherimages/bybrand/dgabbana/db3.jpg"
+    }
+  ],
+  "products_51": [
+    {
+      "name": "bag 52",
+      "description": "This is the description of product 52.",
+      "price": 10.99,
+      "image": "myotherimages/bybrand/dgabbana/db4.jpg"
+    }
+  ],
+  "products_52": [
+    {
+      "name": "70% OFF!!",
+      "description": "Lori Shoulder Bag",
+      "price": "450.00",
+      "image": "myotherimages/clearance/coach1.jpg"
+    }
+  ],
+  "products_53": [
+    {
+      "name": "68% OFF!!",
+      "description": "Rogue 39 In Regenerative Leather",
+      "price": "1,095.00",
+      "image": "myotherimages/clearance/coach2.jpg"
+    }
+  ],
+  "products_54": [
+    {
+      "name": "73% OFF!!",
+      "description": "Nappa leather Soft bag",
+      "price": "1,345.00",
+      "image": "myotherimages/clearance/dbb11.jpg"
+    }
+  ],
+  "products_55": [
+    {
+      "name": "59% OFF!!",
+      "description": "Dionysus GG Supreme super mini bag",
+      "price": "990.00",
+      "image": "myotherimages/clearance/gucci.jpg"
+    }
+  ],
+  "products_56": [
+    {
+      "name": "63% OFF!!",
+      "description": "Speedy 35",
+      "price": "1,620",
+      "image": "myotherimages/clearance/lvv.jpg"
+    }
+  ]
+}
